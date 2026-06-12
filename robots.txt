@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nekosoftech.github.io/repo/sitemap.xml
+Sitemap: https://whoiscate.github.io/repo/sitemap.xml

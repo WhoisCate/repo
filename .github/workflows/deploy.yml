@@ -42,7 +42,7 @@ jobs:
           Codename: Cate
           Architectures: iphoneos-arm iphoneos-arm64
           Components: main
-          Description: All tweaks from NekosofTech
+          Description: All tweaks from Cate
           Icon: https://whoiscate.github.io/repo/CydiaIcon.png
           EOF
           

@@ -12,7 +12,7 @@ for pkg_id, pkg_name in packages.items():
     depiction = {
         "minVersion": "0.1",
         "class": "DepictionTabView",
-        "headerImage": f"https://nekosoftech.github.io/repo/depictions/{pkg_id}/banner.png",
+        "headerImage": f"https://whoiscate.github.io/repo/depictions/{pkg_id}/banner.png",
         "tintColor": "#3498db",
         "tabs": [
             {
