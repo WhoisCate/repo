@@ -4,27 +4,27 @@
     "itemCornerRadius": 10,
     "banners": [
         {
-            "url": "https://whoiscate.github.io/repo/depictions/com.hdun9.privacydisplay/banner.png",
+            "url": "https://whoiscate.github.io/repo/depictions/com.cate.privacydisplay/banner.png",
             "title": "PrivacyDisplay",
-            "package": "com.hdun9.privacydisplay",
+            "package": "com.cate.privacydisplay",
             "hideShadow": false
         },
         {
-            "url": "https://whoiscate.github.io/repo/depictions/com.hdun9.camaction/banner.png",
+            "url": "https://whoiscate.github.io/repo/depictions/com.cate.camaction/banner.png",
             "title": "CamAction",
-            "package": "com.hdun9.camaction",
+            "package": "com.cate.camaction",
             "hideShadow": false
         },
         {
-            "url": "https://whoiscate.github.io/repo/depictions/com.hdun9.homeaction/banner.png",
+            "url": "https://whoiscate.github.io/repo/depictions/com.cate.homeaction/banner.png",
             "title": "HomeAction",
-            "package": "com.hdun9.homeaction",
+            "package": "com.cate.homeaction",
             "hideShadow": false
         },
         {
-            "url": "https://whoiscate.github.io/repo/depictions/com.hdun9.icloudremove/banner.png",
+            "url": "https://whoiscate.github.io/repo/depictions/com.cate.icloudremove/banner.png",
             "title": "iCloudRemove",
-            "package": "com.hdun9.icloudremove",
+            "package": "com.cate.icloudremove",
             "hideShadow": false
         }
     ]

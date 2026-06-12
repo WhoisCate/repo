@@ -2,10 +2,10 @@ import json
 import os
 
 packages = {
-    "com.hdun9.camaction": "CamAction",
-    "com.hdun9.homeaction": "HomeAction",
-    "com.hdun9.icloudremove": "iCloudRemove",
-    "com.hdun9.privacydisplay": "PrivacyDisplay"
+    "com.cate.camaction": "CamAction",
+    "com.cate.homeaction": "HomeAction",
+    "com.cate.icloudremove": "iCloudRemove",
+    "com.cate.privacydisplay": "PrivacyDisplay"
 }
 
 for pkg_id, pkg_name in packages.items():
@@ -53,7 +53,7 @@ for pkg_id, pkg_name in packages.items():
                     {
                         "class": "DepictionTableTextView",
                         "title": "Developer",
-                        "text": "H.DUN9"
+                        "text": "Cate"
                     },
                     {
                         "class": "DepictionTableTextView",
