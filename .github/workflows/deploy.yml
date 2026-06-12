@@ -23,10 +23,12 @@ jobs:
       
       - name: Generate Packages
         run: |
-          # Generate the main Packages file by scanning the debs folder
-          dpkg-scanpackages -m ./debs > Packages
-          
-          # Create compressed variants since modern package managers expect them
+          if [ -d "./debs" ] && ls ./debs/*.deb 1> /dev/null 2>&1; then
+            dpkg-scanpackages -m ./debs > Packages
+          else
+            echo "" > Packages
+          fi
+
           bzip2 -c9 Packages > Packages.bz2
           xz -c9 Packages > Packages.xz
           zstd -c19 Packages > Packages.zst
