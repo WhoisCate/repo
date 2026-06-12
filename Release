@@ -1,0 +1,27 @@
+Origin:WhoisCatee Repo
+Label: Cate
+Suite: stable
+Version: 1.0
+Codename: Cate
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: All tweaks from Cate
+Icon: https://whoiscate.github.io/repo/CydiaIcon.png
+MD5Sum:
+ 68b329da9893e34099c7d8ad5cb9c940 1 Packages
+ 1a28c1c6c45d5a9390ab5bd1aa5a92eb 37 Packages.bz2
+ 6f1c4e8c57ba5cbb6af5f4eb0f437549 60 Packages.xz
+ 374a564dda188597ff7830ae8e2adafe 14 Packages.zst
+ 0454b6459b8dd8cb51ff9c60f4708b29 24 Packages.lzma
+SHA1:
+ adc83b19e793491b1c6ea0fd8b46cd9f32e592fc 1 Packages
+ b8725aa6bb0cf2e614f14140da45ba1f24c1f44c 37 Packages.bz2
+ 80204e9ef3dff1783bb9e9275b9eb5fe3b5488c8 60 Packages.xz
+ cdee3378d9d50473e076a31eb58a760558fd0a41 14 Packages.zst
+ fbe9d078348e30976bdd895a1890857e87aadb11 24 Packages.lzma
+SHA256:
+ 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b 1 Packages
+ 152979049e09b22da4d19cea4e677f2f170f4840a9046c214d8603d9fde62363 37 Packages.bz2
+ f2cae3dfd71c92a7a9b9d047f2cb888bda7e93c817f19d3a7c9f0f8edb9ae206 60 Packages.xz
+ 4def8c0fb00f7a993e0dbcf040d474a2dc0076e8e1b1eb231236d070403ef6ab 14 Packages.zst
+ bc27bb012516d3fd93939e17bcd9116b9993d0c24685a03c0aef17435b8fa848 24 Packages.lzma

@@ -1,0 +1,31 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "https://whoiscate.github.io/repo/depictions/com.cate.privacydisplay/banner.png",
+            "title": "PrivacyDisplay",
+            "package": "com.cate.privacydisplay",
+            "hideShadow": false
+        },
+        {
+            "url": "https://whoiscate.github.io/repo/depictions/com.cate.camaction/banner.png",
+            "title": "CamAction",
+            "package": "com.cate.camaction",
+            "hideShadow": false
+        },
+        {
+            "url": "https://whoiscate.github.io/repo/depictions/com.cate.homeaction/banner.png",
+            "title": "HomeAction",
+            "package": "com.cate.homeaction",
+            "hideShadow": false
+        },
+        {
+            "url": "https://whoiscate.github.io/repo/depictions/com.cate.icloudremove/banner.png",
+            "title": "iCloudRemove",
+            "package": "com.cate.icloudremove",
+            "hideShadow": false
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "AoV Loader - Cate",
+  "bundleIdentifier": "com.cate.kgvn.loader",
+  "version": "1.0-7",
+  "build": "7",
+  "developer": "Cate",
+  "author": "Cate (aka Nguyễn Xuân Tùng)",
+  "shortDescription": "Tweak Injector for Liên Quân Mobile",
+  "localizedDescription": "AoV Loader is a dedicated mod installer for Liên Quân Mobile (Arena of Valor). It allows you to easily inject modifications into the game with a clean and simple interface. Manage your game tweaks seamlessly and securely.",
+  "features": [
+    "Easily install and manage game modifications",
+    "Remove all injected tweaks with a single tap",
+    "Clean and modern user interface",
+    "Secure license verification system"
+  ],
+  "changelog": [
+    {
+      "version": "1.0-7",
+      "date": "2024-04-13",
+      "changes": [
+        "Redesigned the app with a fresh, modern aesthetic.",
+        "Optimized the tweak injection process for Liên Quân Mobile.",
+        "Improved overall stability and user experience."
+      ]
+    }
+  ],
+  "socials": {
+    "telegram": "https://t.me/WhoisCatee"
+  }
+}
