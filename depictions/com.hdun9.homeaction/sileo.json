@@ -1,7 +1,7 @@
 {
     "minVersion": "0.1",
     "class": "DepictionTabView",
-    "headerImage": "https://nekosoftech.github.io/repo/depictions/com.hdun9.homeaction/banner.png",
+    "headerImage": "https://whoiscate.github.io/repo/depictions/com.hdun9.homeaction/banner.png",
     "tintColor": "#3498db",
     "tabs": [
         {

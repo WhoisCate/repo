@@ -35,15 +35,15 @@ jobs:
       - name: Generate Release File
         run: |
           cat <<EOF > Release
-          Origin: NekosofTech's Repo
-          Label: NekosofTech
+          Origin:WhoisCatee Repo
+          Label: Cate
           Suite: stable
           Version: 1.0
-          Codename: nekosoftech
+          Codename: Cate
           Architectures: iphoneos-arm iphoneos-arm64
           Components: main
           Description: All tweaks from NekosofTech
-          Icon: https://nekosoftech.github.io/repo/CydiaIcon.png
+          Icon: https://whoiscate.github.io/repo/CydiaIcon.png
           EOF
           
           echo "MD5Sum:" >> Release
